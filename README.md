@@ -1,2 +1,4 @@
-# dehart-google-cloud-storage-scanner
-Scanner for Google Cloud to determine what buckets and what access you have and how it can be exploited. 
+<h1 align="center">
+  <img src="./assets/bb-1.png" alt="BBLogo" width="250" /></br></br>
+  <strong style="font-size:60px;">Improved Python Keylogger</strong>
+</h1></br>
